@@ -1,0 +1,40 @@
+{
+    "guilds": [{
+        "id": null,
+        "name": "",
+        "categorys": {
+            "theLifeBot": {
+                "id": null,
+                "name": "TheLifeBot",
+                "commandCenter": {
+                    "id": null,
+                    "name": "CommandCenter"
+                }
+            },
+            "watchedGames": {
+                "id": null,
+                "name": "watched games",
+                "channels": [{
+                    "name": "Don't Notice Me",
+                    "_id": null,
+                    "streamers": [{
+                        "display_name": "TheLifeIsYours",
+                        "name": "thelifeisyours",
+                        "_id": null,
+                        "url": "https://twitch.tv/thelifeisyours"
+                    }]
+                }]
+            },
+            "watchedStreamers": {
+                "id": null,
+                "name": "watched streamers",
+                "streams": [{
+                    "display_name": "TheLifeIsYours",
+                    "name": "thelifeisyours",
+                    "_id": null,
+                    "url": "https://twitch.tv/thelifeisyours"
+                }]
+            }
+        }
+    }]
+}

@@ -1,0 +1,30 @@
+{
+    "TheLifeBot": {
+        "id": null,
+        "name": "TheLifeBot",
+        "type": "category",
+        "hasParent": false,
+        "channels": []
+    },
+    "CommandCenter": {
+        "id": null,
+        "name": "command-center",
+        "type": "text",
+        "hasParent": true,
+        "parentName": "TheLifeBot"
+    },
+    "WatchedGames": {
+        "id": null,
+        "name": "Watched Games",
+        "type": "category",
+        "hasParent": false,
+        "channels":[]
+    },
+    "WatchedStreamers": {
+        "id": null,
+        "name": "Watched Streamers",
+        "type": "category",
+        "hasParent": false,
+        "channels":[]
+    }
+}
